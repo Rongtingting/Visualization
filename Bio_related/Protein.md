@@ -6,7 +6,9 @@
 
 - Structure related
 1. **PyMOL**
+```
 conda install -c schrodinger pymol
+```
 
 and there are also many other ways to download and install PyMOL.
 
@@ -15,7 +17,7 @@ and there are also many other ways to download and install PyMOL.
 [pymol-wiki-for search](https://pymolwiki.org/index.php/Main_Page)
 
 [Registration For Educational-Use-Only PyMOL Builds](https://pymol.org/edu/?q=educational)
-
+- 
 2.**DeepView - Swiss-PdbViewer**
 [DeepView - Swiss-PdbViewer](https://spdbv.vital-it.ch/)
 
