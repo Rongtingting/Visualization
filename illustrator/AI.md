@@ -15,3 +15,6 @@
 
 [5分钟画出核小体](https://mp.weixin.qq.com/s/JpVgnTUxlABpzzkWA2WO9w)
 - [Cell的模式图画反，反，反了](https://mp.weixin.qq.com/s/yzIPD6zQCzJK2HFXHpBNuA)
+
+[一步获得模板形状，再也不用一点一点描了](https://mp.weixin.qq.com/s/7nUjqLkUyh3R7t3U2wdV2Q)
+- 描摹——图像描摹——剪影——扩展
